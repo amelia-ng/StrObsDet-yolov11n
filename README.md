@@ -4,10 +4,12 @@ Trained and Fine-tuned YOLOv11n on Kaggle's ROD data, then deployed it into a Hu
 
 Check out the app interface at: https://huggingface.co/spaces/ameliang/street-obstacle-detection
 **Model did pretty well on random images from Google**
-<img width="1539" height="608" alt="image" src="https://github.com/user-attachments/assets/f1d592c3-4e6d-4724-be17-97398c51bca7" />
-<img width="1554" height="677" alt="image" src="https://github.com/user-attachments/assets/94497f5b-9da0-4fc5-af89-c5744199e0e2" />
-The model still misses out several objects in unseen photos:
-<img width="1539" height="447" alt="image" src="https://github.com/user-attachments/assets/053f2d82-2655-479c-80c7-afbc88dfc059" />
+<img width="1526" height="623" alt="image" src="https://github.com/user-attachments/assets/e543c91c-307f-4312-a36e-9e8835e6637d" />
+
+<img width="1593" height="890" alt="image" src="https://github.com/user-attachments/assets/e17b2e84-9a1b-40ff-b452-a90568479a12" />
+
+The model still misses out several objects in some photos:
+<img width="1698" height="870" alt="image" src="https://github.com/user-attachments/assets/0010b691-6a66-4c80-b3cf-98e1dfd9a6bc" />
 
 
 Model Evaluation:
@@ -18,7 +20,7 @@ Model Evaluation:
 
 Training curves do not show signs of overfitting
 <img width="1491" height="715" alt="image" src="https://github.com/user-attachments/assets/cbcf48e7-4988-488f-ad07-34c353cbe6b4" />
-The confusion matrix shows rare correlation between mismatched class
+The confusion matrix shows a rare correlation between the mismatched classes
 <img width="1016" height="790" alt="image" src="https://github.com/user-attachments/assets/35c0b8a6-37b5-4672-9d64-e58f06788083" />
 
 
