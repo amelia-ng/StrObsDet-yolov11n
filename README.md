@@ -2,7 +2,7 @@
 View HuggingFace interface: https://huggingface.co/spaces/ameliang/street-obstacle-detection
 
 
-**Model did pretty well on random images from Google** Although, it cannot detect all objects and blurry objects as well as RT-DETR. [Repo for RT-DETR]([url](https://github.com/amelia-ng/RT-DETR-street-obstacles-detection/tree/main))
+**Model did pretty well on random images from Google** Although, it cannot detect all objects and blurry objects as well as RT-DETR. Repo for RT-DETR: https://github.com/amelia-ng/RT-DETR-street-obstacles-detection/tree/main
 
 
 <img width="1526" height="623" alt="image" src="https://github.com/user-attachments/assets/e543c91c-307f-4312-a36e-9e8835e6637d" />
