@@ -1,9 +1,10 @@
 # Street Obstacle Detection using YOLOv11n
+View HuggingFace interface: https://huggingface.co/spaces/ameliang/street-obstacle-detection
 
-Trained and Fine-tuned YOLOv11n on Kaggle's ROD data, then deployed it into a HuggingFace app.
 
-Check out the app interface at: https://huggingface.co/spaces/ameliang/street-obstacle-detection
-**Model did pretty well on random images from Google**
+**Model did pretty well on random images from Google** Although, it cannot detect all objects and blurry objects as well as RT-DETR. [Repo for RT-DETR]([url](https://github.com/amelia-ng/RT-DETR-street-obstacles-detection/tree/main))
+
+
 <img width="1526" height="623" alt="image" src="https://github.com/user-attachments/assets/e543c91c-307f-4312-a36e-9e8835e6637d" />
 
 <img width="1593" height="890" alt="image" src="https://github.com/user-attachments/assets/e17b2e84-9a1b-40ff-b452-a90568479a12" />
